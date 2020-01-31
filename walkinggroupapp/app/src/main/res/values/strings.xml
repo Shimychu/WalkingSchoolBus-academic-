@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Walking School Bus</string>
+    <string name="app_preferences">app_preference</string>
+    <string name="shared_pref_email">email_pref</string>
+    <string name="shared_pref_password">password_pref</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_fragment">Map</string>
+
+    <string name="text_email">MY EMAIL :</string>
+    <string name="text_useremail">TextView</string>
+    <string name="text_username">TextView</string>
+    <string name="text_name">MY NAME :</string>
+    <string name="text_logout">Log Out</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+    <string name="dialog_hint">Input here</string>
+    <string name="dialog_title">Enter an E-mail address to search</string>
+    <string name="item_menu_option1">View profile</string>
+    <string name="item_menu_option2">Add to groups</string>
+    <string name="delete">Delete</string>
+    <string name="groupDialogTitle">Choose a child:\n(Select no one for yourself)</string>
+    <string name="btnOK">ok</string>
+    <string name="apikey">D3CC767C-22FE-47FC-8287-8E1AA3611CB8</string>
+    <string name="password">Password</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="child_status">monitored by you</string>
+    <string name="parent_status">monitoring you</string>
+    <string name="btnRemove">Remove</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="etName">Name</string>
+    <string name="etEmail">email:</string>
+    <string name="etPassword">password</string>
+    <string name="etConfirm">Confirm</string>
+
+    <string name="text_date_of_birth_year">DATE OF BIRTH (YEAR) :</string>
+    <string name="text_date_of_birth_month">DATE OF BIRTH (MONTH) :</string>
+    <string name="text_home_phone">HOME PHONE</string>
+    <string name="text_cell_phone">CELL PHONE :</string>
+    <string name="text_address">ADDRESS :</string>
+    <string name="text_grade">GRADE :</string>
+    <string name="student_only">(student only)</string>
+    <string name="teacher">TEACHER :</string>
+    <string name="text_emergency">EMERGENCY CONTACT  \n INFO :</string>
+    <string name="text_save">SAVE</string>
+    <string name="text_usercphone" />
+    <string name="text_useraddress" />
+    <string name="text_useremergency" />
+    <string name="date_of_birth">DATE OF BIRTH :</string>
+    <string name="logout">LOGOUT</string>
+    <string name="edit">EDIT</string>
+
+    <string name="addChildToGroup">Add child to group</string>
+    <string name="removeChildFromGroup">Remove Child</string>
+    <string name="messageGroup">Message Group</string>
+    <string name="manageChildrenInGroup">Manage Children</string>
+
+    <string name="unread_status">NEW</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="new_message_instruction">Enter your message here:</string>
+    <string name="emergency_button">Emergency contact</string>
+    <string name="openDrawer">open drawer</string>
+    <string name="closeDrawer">close drawer</string>
+    <string name="top_10">LEADER BOARD</string>
+    <string name="close">CLOSE</string>
+    <string name="requestLeader">Request Leader</string>
+
+
+</resources>

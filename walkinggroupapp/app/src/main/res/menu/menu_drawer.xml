@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_reward"
+            android:icon="@drawable/ic_more_option"
+            android:title="Rewards"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_leaderboard"
+            android:icon="@drawable/ic_more_option"
+            android:title="Leaderboard"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_permissions"
+            android:icon="@drawable/ic_more_option"
+            android:title="Permissions"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_more_option"
+            android:title="Log Out"
+            android:checked="false"/>
+    </group>
+</menu>

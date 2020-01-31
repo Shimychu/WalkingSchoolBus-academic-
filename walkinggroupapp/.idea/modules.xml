@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TheWalkingSchoolBus.iml" filepath="$PROJECT_DIR$/TheWalkingSchoolBus.iml" />
+      <module fileurl="file://C:/Users/Pheni/StudioProjects/walkinggroupapp/TheWalkingSchoolBus.iml" filepath="C:/Users/Pheni/StudioProjects/walkinggroupapp/TheWalkingSchoolBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/walkinggroupapp.iml" filepath="$PROJECT_DIR$/walkinggroupapp.iml" />
+    </modules>
+  </component>
+</project>
